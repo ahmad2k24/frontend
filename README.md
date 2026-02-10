@@ -7,7 +7,7 @@ This project was bootstrapped with
 
 In the project directory, you can run:
 
-new changes
+new changessss
 
 ### `npm start`
 
